@@ -1,1 +1,1 @@
-![Header](./header-image.png)
+![Header](./header-image.webp)
