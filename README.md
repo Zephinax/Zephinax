@@ -37,5 +37,5 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zephinax&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
-<img src="./profile-3d-contrib.svg" alt="profile" >
+<img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="profile" >
 
